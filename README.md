@@ -1,2 +1,1 @@
-# ShoppingListMobileApp
-Shopping List Mobile App 
+it is a simple shopping list mobile App.
